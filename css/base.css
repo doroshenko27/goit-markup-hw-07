@@ -1,0 +1,18 @@
+body {
+  font-family: roboto, sans-serif;
+  background-color: var(--color-title-second);
+  color: var(--color-text);
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.container {
+  outline: 2px solid rgb(224, 244, 8);
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}/*# sourceMappingURL=base.css.map */
